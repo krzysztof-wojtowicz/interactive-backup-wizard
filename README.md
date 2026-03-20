@@ -121,5 +121,5 @@ The program generates a `workers.log` file in the execution directory. This file
 
 ---
 
-**Author:** Krzysztof Wójtowicz
+**Author:** Krzysztof Wójtowicz<br>
 **Course:** Operating Systems (Systemy Operacyjne) @ MiNI WUT
